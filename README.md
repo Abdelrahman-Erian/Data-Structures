@@ -4,43 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Data Structures in C++</title>
-  <style>
-    body {
-      font-family: "Segoe UI", Roboto, sans-serif;
-      background-color: #0d1117;
-      color: #e6edf3;
-      line-height: 1.6;
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-    }
-    h1, h2, h3 {
-      color: #58a6ff;
-    }
-    code {
-      background-color: #161b22;
-      padding: 0.2em 0.4em;
-      border-radius: 6px;
-      font-size: 0.95em;
-      color: #c9d1d9;
-    }
-    pre {
-      background-color: #161b22;
-      padding: 1em;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      margin-left: 1.2em;
-    }
-  </style>
 </head>
 <body>
 
