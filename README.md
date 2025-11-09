@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Data Structures in C++</title>
-</head>
-<body>
-
-  <h1>📘 Data Structures in C++</h1>
+<h1>📘 Data Structures in C++</h1>
 
   <p>
     Welcome to <strong>Data Structures</strong> by <a href="https://github.com/Abdelrahman-Erian">Abdelrahman Erian</a>.  
@@ -50,6 +41,4 @@
     If you found this project helpful, consider giving it a <strong>⭐ star</strong> on GitHub!
   </p>
 
-</body>
-</html>
 
